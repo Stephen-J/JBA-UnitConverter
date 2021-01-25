@@ -1,0 +1,12 @@
+[1;31m
+Start test 1[0m
+#Enter a number of kilometers: > 25
+25 kilometers is 25000 meters
+[1;31m
+Start test 2[0m
+#Enter a number of kilometers: > 26
+26 kilometers is 26000 meters
+[1;31m
+Start test 3[0m
+#Enter a number of kilometers: > 13
+13 kilometers is 13000 meters
