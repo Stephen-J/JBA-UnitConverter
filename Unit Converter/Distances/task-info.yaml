@@ -137,14 +137,11 @@ files:
 - name: test/ConverterTest.java
   visible: false
   text: |
-    import converter.MainKt;
     import org.hyperskill.hstest.stage.StageTest;
 
 
     abstract public class ConverterTest<T> extends StageTest<T> {
-        public ConverterTest() throws Exception {
-            super(MainKt.class);
-        }
+
     }
   learner_created: false
 - name: test/Authors.kt
@@ -290,5 +287,8 @@ files:
 
   learner_created: false
 feedback_link: https://hyperskill.org/projects/70/stages/387/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 27 Jan 2021 17:24:04 UTC
 record: -1
