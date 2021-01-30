@@ -11,7 +11,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Calculate volume" />
+            <option value="$PROJECT_DIR$/Problems/Car speed" />
+            <option value="$PROJECT_DIR$/Problems/Concatenate 3 strings with separator" />
+            <option value="$PROJECT_DIR$/Problems/Currency comparison" />
+            <option value="$PROJECT_DIR$/Problems/Deposit" />
             <option value="$PROJECT_DIR$/Problems/Odd or even" />
+            <option value="$PROJECT_DIR$/Problems/Playing with time" />
+            <option value="$PROJECT_DIR$/Problems/Print Username" />
+            <option value="$PROJECT_DIR$/Problems/Strings as objects" />
+            <option value="$PROJECT_DIR$/Problems/The rainbow order" />
             <option value="$PROJECT_DIR$/Unit Converter/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
